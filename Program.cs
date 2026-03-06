@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Cree un programa que pida un número al usuario y muestre su tabla de multiplicar del 1 al 10 utilizando do-while.
